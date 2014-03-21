@@ -3,6 +3,17 @@
 <head>
 	<title>Easy DE2 Pin assignments</title>
 	<link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+
+	<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-39700861-3', 'easy-de2-pin-assignments.appspot.com');
+	  ga('send', 'pageview');
+
+	</script>
 </head>
 <body>
 <div class="container">
@@ -56,18 +67,7 @@
 
 	<div class="footer" style="padding-top: 5px; color: #777; border-top: 1px solid #e5e5e5;">
         	<p>&copy; 2014 <a target="_blank" href="http://neelabhgupta.com/">Neelabh Gupta</a></p>
-	</div>
-
-	<script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-	  ga('create', 'UA-39700861-3', 'easy-de2-pin-assignments.appspot.com');
-	  ga('send', 'pageview');
-
-	</script>
+	</div>	
 </div>
 </body>
 </html>
