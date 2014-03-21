@@ -49,7 +49,7 @@ def index():
 			loc = find_pin_loc(pin)
 			if loc == None:
 				errors.append("Pin not found")
-	if loc not in loc_pin_dict:
+	if loc is not None and loc not in loc_pin_dict:
 		errors.append("Location not found")
 		loc = None
 	return template('main_template', loc_pin_dict=loc_pin_dict, pin_list=pin_list, loc=loc, errors=errors)
